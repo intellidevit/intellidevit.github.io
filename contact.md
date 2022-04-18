@@ -1,4 +1,4 @@
-# Conact Us
+# Contact
 
 Experts in C#, Javascript and Go. 
 
