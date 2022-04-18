@@ -3,5 +3,3 @@ title: Intellidev IT Consultancy
 description:
 markdown: kramdown
 theme: jekyll-theme-slate
-plugins:
-  - jekyll-sitemap
